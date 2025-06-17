@@ -131,52 +131,6 @@ MonoBehaviour:
         chainFileIDs: 
         capFileID: 2418431751647949713
     - simpleObjectData:
-        fileID: 877269548305012029
-      type: 1
-      wingsData:
-      - growDirection: {x: 1, y: 0, z: 0}
-        chainFileIDs: 7a3ce71669cddb5e231676c31237b537d6ec64853e990356
-        capFileID: -1
-      - growDirection: {x: 0, y: 0, z: -1}
-        chainFileIDs: 5f3b5ebcb3b792462b9291f55cabc91f5cab708dfb20511b
-        capFileID: -1
-    - simpleObjectData:
-        fileID: 2534837342288773311
-      type: 1
-      wingsData:
-      - growDirection: {x: 1, y: 0, z: 0}
-        chainFileIDs: b7de0b3c60d85b1128c567c80a3901726cb141145199612a7a323ceb4bd41265e1da38a771c4572ce40624f5ebd41f37fb18cfc7f475aa0a
-        capFileID: -1
-      - growDirection: {x: 0, y: 0, z: -1}
-        chainFileIDs: 1f4ab2e1c9ceff30
-        capFileID: -1
-    - simpleObjectData:
-        fileID: 4755194402850184305
-      type: 2
-      wingsData:
-      - growDirection: {x: 1, y: 0, z: 0}
-        chainFileIDs: 
-        capFileID: 8662972702554153446
-      - growDirection: {x: 0, y: 0, z: -1}
-        chainFileIDs: 3ba44efaa9af083d
-        capFileID: -1
-      - growDirection: {x: -1, y: 0, z: 0}
-        chainFileIDs: b4e82595505ce457
-        capFileID: 6086830516653254670
-    - simpleObjectData:
-        fileID: 469706486407817709
-      type: 2
-      wingsData:
-      - growDirection: {x: 1, y: 0, z: 0}
-        chainFileIDs: be5308b3e443ad61
-        capFileID: 7738397679898440903
-      - growDirection: {x: 0, y: 0, z: -1}
-        chainFileIDs: a9dfb9c78d9ce434
-        capFileID: -1
-      - growDirection: {x: -1, y: 0, z: 0}
-        chainFileIDs: 
-        capFileID: 4819841023167519666
-    - simpleObjectData:
         fileID: 1231703750981261072
       type: 1
       wingsData:
@@ -186,16 +140,6 @@ MonoBehaviour:
       - growDirection: {x: 0, y: 0, z: -1}
         chainFileIDs: beaba3135b1ad359775ad58831628507
         capFileID: -1
-    - simpleObjectData:
-        fileID: 1687404800596203466
-      type: 1
-      wingsData:
-      - growDirection: {x: 1, y: 0, z: 0}
-        chainFileIDs: 8753dbfe58737373
-        capFileID: -1
-      - growDirection: {x: 0, y: 0, z: -1}
-        chainFileIDs: a2406f1eb29e62666e10111fd3f1f720
-        capFileID: 1033681504214424227
     - simpleObjectData:
         fileID: 5018397733131777387
       type: 1
@@ -215,19 +159,6 @@ MonoBehaviour:
         capFileID: -1
       - growDirection: {x: 0, y: 0, z: -1}
         chainFileIDs: e5a09eac0bac0c49a562f328b848c653
-        capFileID: -1
-      - growDirection: {x: -1, y: 0, z: 0}
-        chainFileIDs: 
-        capFileID: -1
-    - simpleObjectData:
-        fileID: 1233862829001993439
-      type: 2
-      wingsData:
-      - growDirection: {x: 1, y: 0, z: 0}
-        chainFileIDs: 
-        capFileID: -1
-      - growDirection: {x: 0, y: 0, z: -1}
-        chainFileIDs: 1990452a202a9c2159b8f45ed6be912a
         capFileID: -1
       - growDirection: {x: -1, y: 0, z: 0}
         chainFileIDs: 
@@ -258,32 +189,6 @@ MonoBehaviour:
       - growDirection: {x: -1, y: 0, z: 0}
         chainFileIDs: 
         capFileID: 906469540940039169
-    - simpleObjectData:
-        fileID: 8343981283944555997
-      type: 2
-      wingsData:
-      - growDirection: {x: 1, y: 0, z: 0}
-        chainFileIDs: 
-        capFileID: -1
-      - growDirection: {x: 0, y: 0, z: -1}
-        chainFileIDs: bada4ca712754061511665d9d60f1b6544b5538008baa36b
-        capFileID: -1
-      - growDirection: {x: -1, y: 0, z: 0}
-        chainFileIDs: 
-        capFileID: -1
-    - simpleObjectData:
-        fileID: 5477549082645809043
-      type: 2
-      wingsData:
-      - growDirection: {x: 1, y: 0, z: 0}
-        chainFileIDs: 
-        capFileID: -1
-      - growDirection: {x: 0, y: 0, z: -1}
-        chainFileIDs: 282debb1dc19fd44
-        capFileID: 7350561286807102177
-      - growDirection: {x: -1, y: 0, z: 0}
-        chainFileIDs: 
-        capFileID: -1
     - simpleObjectData:
         fileID: 8702226655754386494
       type: 2
